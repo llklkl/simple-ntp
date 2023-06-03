@@ -1,0 +1,11 @@
+[package]
+name = "simple-ntp"
+version = "0.1.0"
+description = "Library to retrieve Unix timestamps using SNTP requests"
+repository = "https://github.com/llklkl/simple-ntp"
+readme = "README.md"
+license = "MIT"
+authors = ["llklkl <fengl6638@gmail.com>"]
+edition = "2021"
+
+[dependencies]

@@ -1,2 +1,9 @@
 # simple-ntp
-only for practice. Library to retrieve Unix timestamps using SNTP requests.
+
+Library to retrieve Unix timestamps using SNTP requests.
+
+only for practice.
+
+# license
+
+MIT license
