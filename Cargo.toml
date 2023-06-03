@@ -1,6 +1,6 @@
 [package]
 name = "simple-ntp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Library to retrieve Unix timestamps using SNTP requests"
 repository = "https://github.com/llklkl/simple-ntp"
 readme = "README.md"
